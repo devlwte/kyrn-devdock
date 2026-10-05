@@ -112,54 +112,6 @@ Kyrn DevDock se distribuye bajo la **Licencia Comunitaria Oficial de KyrnForge**
 
 ---
 
-## 🌐 Ficha Oficial para Publicar en KyrnForge.dev
-
-A continuación tienes los datos exactos con el formato requerido para dar de alta el proyecto en el panel administrativo de [**kyrnforge.dev**](https://kyrnforge.dev):
-
-```yaml
-# =============================================================================
-# FICHA DE PUBLICACIÓN EN KYRNFORGE.DEV
-# =============================================================================
-
-ID Único (slug):
-kyrn-devdock
-
-Categoría Filtro:
-Herramientas & Web / Plataforma (tools)
-
-Nombre del Proyecto:
-Kyrn DevDock
-
-Etiqueta de Categoría:
-Herramientas Dev & Red Local
-
-Estado / Etiqueta del Badge:
-v1.0.0 Oficial
-
-Color del Badge:
-Verde (Producción)  [border-emerald-500/40 text-emerald-400 bg-emerald-950/30]
-
-Icono de Proyecto:
-/projects/kyrn-devdock.png
-
-Descripción del Proyecto:
-Centinela de puertos y entornos de desarrollo locales creado en Rust y Tauri v2. Diagnóstico en tiempo real de sockets TCP/UDP, detección de procesos huérfanos (Zombie Hunter) con terminación segura, gestión de dominios virtuales .local y sincronización multi-tenant cifrada con Kyrn Cloud (kyrnforge.dev).
-
-Etiquetas / Tags:
-Port Sentinel, Network Diagnostics, Tauri v2, Rust Core, Process Killer, Multi-Tenant Cloud, Windows 11, DevTools
-
-Enlace Repositorio GitHub:
-https://github.com/devlwte/kyrn-devdock
-
-Enlace Descarga:
-https://github.com/devlwte/kyrn-devdock/releases
-
-Marcar como Proyecto Insignia (Flagship):
-Activado (Checked)
-```
-
----
-
 <div align="center">
   <sub>Desarrollado con precisión por <strong><a href="https://kyrnforge.dev">KyrnForge</a></strong> · 2026</sub>
 </div>
