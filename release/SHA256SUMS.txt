@@ -1,0 +1,7 @@
+SHA256 CHECKSUMS - KYRN DEVDOCK v1.0.0
+==================================================
+8f079649d50813f5bb34ba02fc835e751da71dfb72f2dba8c23f23139baa610b *Kyrn-DevDock-Setup-1.0.0.exe
+5adbba23c0877ecc75a088285eb8dadafae9e713918e362b14907e09d7f4a467 *Kyrn-DevDock-Portable-1.0.0.exe
+
+Official Distribution by KyrnForge: https://kyrnforge.dev
+Built: 2026-10-04T23:54:54.275Z
